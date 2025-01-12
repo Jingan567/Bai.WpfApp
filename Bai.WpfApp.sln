@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai.WpfApp", "Bai.WpfApp.csproj", "{3DFD5AB4-1B01-4A27-8858-EA2AC969FD56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai.ControlTools", "Bai.ControlTools\Bai.ControlTools.csproj", "{63DEF1ED-CB60-4FF1-9232-6B826A607614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DFD5AB4-1B01-4A27-8858-EA2AC969FD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFD5AB4-1B01-4A27-8858-EA2AC969FD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFD5AB4-1B01-4A27-8858-EA2AC969FD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFD5AB4-1B01-4A27-8858-EA2AC969FD56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63DEF1ED-CB60-4FF1-9232-6B826A607614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DEF1ED-CB60-4FF1-9232-6B826A607614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DEF1ED-CB60-4FF1-9232-6B826A607614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DEF1ED-CB60-4FF1-9232-6B826A607614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00E8B833-D993-48B5-9072-D9F39B31274B}
+	EndGlobalSection
+EndGlobal
