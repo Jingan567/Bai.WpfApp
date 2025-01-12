@@ -5,10 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Bai.WpfApp"
         xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" x:Class="Bai.WpfApp.MainWindow"
+        xmlns:control ="clr-namespace:Bai.ControlTools;assembly=Bai.ControlTools"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid Width="100" Height="100">
-        
+        <NavigationWindow>
+            <
+        </NavigationWindow>
         
 
     </Grid>

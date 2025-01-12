@@ -16,8 +16,17 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove=".gitattributes" />
+    <None Remove=".gitignore" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.SDK.Expression.Blend" Version="1.0.0" />
     <PackageReference Include="Unnoficial.Microsoft.Expression.Drawing" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Bai.ControlTools\Bai.ControlTools.csproj" />
   </ItemGroup>
 
 </Project>
