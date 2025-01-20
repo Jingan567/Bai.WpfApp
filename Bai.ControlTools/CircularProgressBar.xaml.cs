@@ -14,7 +14,7 @@ namespace Bai.ControlTools
     /// <summary>
     /// Interaction logic for UserControl1.xaml
     /// </summary>
-    public partial class CircularProgressBar : UserControl
+    public partial class CircularProgressBar : Window
     {
         public CircularProgressBar()
         {
