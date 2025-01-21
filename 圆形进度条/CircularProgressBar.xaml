@@ -44,7 +44,7 @@
         </Style>
     </Window.Resources>
     <Grid>
-        <local:LiuProgressBar x:Name="lp" Width="100" Height="100" Style="{DynamicResource ProgressBarStyle}" Value="15"></local:LiuProgressBar>
+        <local:LiuProgressBar x:Name="lp" Width="100" Height="100" Style="{DynamicResource ProgressBarStyle}" Value="20"></local:LiuProgressBar>
         <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Text="{Binding ElementName=lp, Path=Percentage, StringFormat={}{0}%}"></TextBlock>
     </Grid>
 </Window>
